@@ -3,6 +3,20 @@
 
 // latitude,longitude
 
+// Geocoding
+// Geocoding is the process of converting a human-readable address into geographic coordinates (latitude and longitude).
+
+// Example:
+// Input: 221B Baker Street, London
+// Output: 51.523769, -0.158538
+
+// Reverse Geocoding
+// Reverse geocoding is the opposite process: converting geographic coordinates (latitude and longitude) into a human-readable address.
+
+// Example:
+// Input: 51.523769, -0.158538
+// Output: 221B Baker Street, London
+
 const storeList = [
     {
         "type": "Feature",
